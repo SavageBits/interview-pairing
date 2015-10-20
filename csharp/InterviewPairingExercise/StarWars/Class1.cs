@@ -8,5 +8,9 @@ namespace StarWars
 {
     public class Class1
     {
+        public int DoSomething()
+        {
+            return 1;
+        }
     }
 }
