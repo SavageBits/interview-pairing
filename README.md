@@ -1,5 +1,4 @@
-# interview-pairing
-Skeleton for interview pairing in several languages/frameworks
+# Interview Pairing
 
 See star_wars.md for a sample problem.
 
