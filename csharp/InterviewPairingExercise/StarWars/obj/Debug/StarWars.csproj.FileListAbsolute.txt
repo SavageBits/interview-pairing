@@ -1,0 +1,5 @@
+C:\git\interview-pairing\csharp\InterviewPairingExercise\StarWars\bin\Debug\StarWars.dll
+C:\git\interview-pairing\csharp\InterviewPairingExercise\StarWars\bin\Debug\StarWars.pdb
+C:\git\interview-pairing\csharp\InterviewPairingExercise\StarWars\obj\Debug\StarWars.csprojResolveAssemblyReference.cache
+C:\git\interview-pairing\csharp\InterviewPairingExercise\StarWars\obj\Debug\StarWars.dll
+C:\git\interview-pairing\csharp\InterviewPairingExercise\StarWars\obj\Debug\StarWars.pdb

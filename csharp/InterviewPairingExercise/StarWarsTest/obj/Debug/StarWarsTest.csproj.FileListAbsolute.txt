@@ -1,0 +1,11 @@
+C:\git\interview-pairing\csharp\InterviewPairingExercise\StarWarsTest\bin\Debug\StarWarsTest.dll
+C:\git\interview-pairing\csharp\InterviewPairingExercise\StarWarsTest\bin\Debug\StarWarsTest.pdb
+C:\git\interview-pairing\csharp\InterviewPairingExercise\StarWarsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\git\interview-pairing\csharp\InterviewPairingExercise\StarWarsTest\bin\Debug\nunit.framework.dll
+C:\git\interview-pairing\csharp\InterviewPairingExercise\StarWarsTest\bin\Debug\StarWars.dll
+C:\git\interview-pairing\csharp\InterviewPairingExercise\StarWarsTest\bin\Debug\StarWars.pdb
+C:\git\interview-pairing\csharp\InterviewPairingExercise\StarWarsTest\bin\Debug\nunit.framework.xml
+C:\git\interview-pairing\csharp\InterviewPairingExercise\StarWarsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\git\interview-pairing\csharp\InterviewPairingExercise\StarWarsTest\obj\Debug\StarWarsTest.csprojResolveAssemblyReference.cache
+C:\git\interview-pairing\csharp\InterviewPairingExercise\StarWarsTest\obj\Debug\StarWarsTest.dll
+C:\git\interview-pairing\csharp\InterviewPairingExercise\StarWarsTest\obj\Debug\StarWarsTest.pdb
