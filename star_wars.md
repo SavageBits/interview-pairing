@@ -1,6 +1,6 @@
 #Star Wars
-Design: 20 minutes  
-Coding: 110 minutes
+Design: 1/4 total time  
+Coding: 3/4 total time
 
 
 ##Our client, an online retailer, wants to begin selling movies.
@@ -25,8 +25,8 @@ If you buy all 6 you get a 40% discount.
 
 Note that if you buy four movies, of which 3 are different episodes, you get a 10% discount on the 3 distinct movies, but the fourth movie (the duplicate) still costs $10. See below.
 
-Cart
-----
+##Example Order
+
 1 copy of Episode IV: A New Hope  
 2 copies of Episode V: The Empire Strikes Back  
 1 copy of Episode VI: Return of the Jedi  
