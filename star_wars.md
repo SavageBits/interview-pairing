@@ -13,15 +13,15 @@ To encourage sales of Star Wars movies, they want to discount purchases of multi
 
 ##Here's what they've told us about the pricing and discounts:
 
-One copy of any of the 6 movies costs $10.
+One copy of any of the 6 Star Wars movies costs $10.
 
-If you buy two different episodes, you get a 5% discount on those two movies. Purchasing A New Hope and Empire Strikes Back, for example, would cost $19.
+If you buy two different Star Wars movies, you get a 5% discount on those two movies. Purchasing A New Hope and The Empire Strikes Back, for example, would cost $19.
 
 If you buy 3 different episodes, you get a 10% discount. So buying one copy of each of the prequels would total $27.
 
 If you buy 4 different episodes, you get a 20% discount.
 
-If you buy all 6 you get a 40% discount.
+If you buy all 6 Star Wars movies, you get a 40% discount.
 
 Note that if you buy four movies, of which 3 are different episodes, you get a 10% discount on the 3 distinct movies, but the fourth movie (the duplicate) still costs $10. See below.
 
