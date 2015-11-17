@@ -9,7 +9,7 @@ Since they have an existing system, they want us to build a new module for handl
 
 The online store should be able to call our service each time a movie is added to a customer's cart. When they're done adding movies, they should be able to get a total from our module.
 
-To encourage sales of Star Wars movies, they want to discount purchases of multiple movies in the series.
+To start, they'll only sell Star Wars movies. To encourage sales, they want to discount purchases of multiple movies in the series.
 
 ##Here's what they've told us about the pricing and discounts:
 
@@ -17,9 +17,9 @@ One copy of any of the 6 Star Wars movies costs $10.
 
 If you buy two different Star Wars movies, you get a 5% discount on those two movies. Purchasing A New Hope and The Empire Strikes Back, for example, would cost $19.
 
-If you buy 3 different episodes, you get a 10% discount. So buying one copy of each of the prequels would total $27.
+If you buy 3 different movies, you get a 10% discount. So buying one copy of each of the prequels, for example, would total $27.
 
-If you buy 4 different episodes, you get a 20% discount.
+If you buy 4 different movies, you get a 20% discount.
 
 If you buy all 6 Star Wars movies, you get a 40% discount.
 
