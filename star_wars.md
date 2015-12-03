@@ -9,7 +9,7 @@ Since they have an existing system, they want us to build a new service for hand
 
 Our client's web site should be able to call our service each time a movie is added to a customer's cart. When they're done adding movies, they should be able to get a total from our service.
 
-**To start, they'll only sell Star Wars movies.** To encourage sales, they want to discount purchases of multiple movies in the series.
+**To start, they'll only sell Star Wars movies.** To encourage sales, they want to discount purchases of multiple movies in the series but only if the movies are **different** Star Wars episodes.
 
 ##Here's what they've told us about the pricing and discounts:
 
